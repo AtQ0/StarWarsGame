@@ -180,7 +180,6 @@ namespace Uppgift3._2DesktopTrådning
 			//Delete lucas arts logo
 			btnStartGame.Visible = false;
 
-
 			if (counterForFirstTime <= 0)
 			{
 				timer1.Start();
